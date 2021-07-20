@@ -2,5 +2,6 @@
     "python.defaultInterpreterPath": "C:\\Users\\dell\\Desktop\\DscProjects\\venv\\Scripts\\python.exe",
     "files.watcherExclude": {
         "**/venv/**": true
-    }
+    },
+    "jupyter.jupyterServerType": "local"
 }
